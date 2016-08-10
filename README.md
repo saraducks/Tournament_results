@@ -1,4 +1,4 @@
-# Tournament_results##Tournament Results
+# Tournament_results
 This project works by connecting database to python using the PYSCOPG2 which is the adapter for python.The database created using psql in the vagrant VM and the .py file fetches records from database is created and executed in the same VM.The test file is executed to check the query and .py file works fine and gives the expected output.
 
 ##Tournament.sql
